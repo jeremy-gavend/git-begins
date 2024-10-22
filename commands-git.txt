@@ -1,5 +1,7 @@
 git clone
 
-push
-push --all
-push --branches
+git push
+git push --all
+git push --branches
+
+git pull
