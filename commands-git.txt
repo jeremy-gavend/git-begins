@@ -5,3 +5,6 @@ git push --all
 git push --branches
 
 git pull
+
+git checkout -b new-branch
+git checkout branch
