@@ -1,0 +1,5 @@
+git clone
+
+push
+push --all
+push --branches
